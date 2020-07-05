@@ -4050,7 +4050,7 @@ SETUP_GROUP_FORMATS_CONVERSION_DESC
 	CS	Logitech Media Server může převádět formáty audio souborů průběžně (on-the-fly) pro přehrávání na vašem přehrávači. Níže můžete zrušením zaškrtnutí zakázat určité formáty. Je zde zobrazen pouze název binárního souboru. Chcete-li vidět nebo editovat celou příkazovou řádku, otevřete convert.conf. Změny uložíte klepnutím na tlačítko Změnit.
 	DA	Logitech Media Server kan konvertere lydfilerne mens de spilles på afspilleren. Du kan fravælge filformater nedenfor ved at fjerne markeringen ud for dem. Det er kun navnet på binære filer som vises her. Hvis du vil se og eventuelt redigere hele kommandolinjen, skal du åbne convert.conf. Klik på Skift for at gemme indstillingerne.
 	DE	Logitech Media Server kann während der Wiedergabe Audiodateiformate konvertieren. Sie können bestimmte Formate ausschließen, indem Sie das entsprechende Kontrollkästchen deaktivieren. Hier wird nur der Name der ausführbaren Datei angezeigt. Wenn Sie die gesamte Befehlszeile sehen möchten, müssen Sie 'convert.conf' öffnen. Klicken Sie auf 'Ändern', um die Änderungen zu speichern.
-	EN	Logitech Media Server can convert audio file formats on-the-fly for playback on your player.  You can disable specific formats below by unchecking them.  Only the name of the binary is shown here. To see/edit the entire command line, you will need to open convert.conf.  Click Change to save your changes.
+	EN	Logitech Media Server can convert audio file formats on-the-fly for playback on your player.  You can disable specific formats below by unchecking them.  Only the name of the binary is shown here. To see/edit the entire command line, you will need to open convert.conf. 'F' = file, 'I' = stdin, 'R' = remote URL. Click Change to save your changes.
 	ES	Logitech Media Server puede convertir formatos de archivo de audio al instante para reproducirlos en el reproductor. A continuación, puede anular la selección de formatos específicos para desactivarlos. Aquí sólo se muestra el nombre del binario. Para ver/editar la línea de comandos entera, deberá abrir convert.conf. Haga clic en Cambiar para guardar los cambios.
 	FI	Logitech Media Server voi muuntaa äänitiedostomuotoja vauhdista soittimella toistoa varten.  Voit poistaa tiedostomuotoja käytöstä alla lisäämällä niiden kohdalle valintamerkin.  Tässä näkyy vain binaarin nimi. Jos haluat tarkastella/muokata koko komentoriviä, avaa convert.conf.  Tallenna muutokset valitsemalla Muuta.
 	FR	Le Logitech Media Server peut convertir à la volée certains types de fichiers audio afin de les lire sur votre platine. Vous pouvez annuler la conversion d'un type de fichier spécifique en le désélectionnant ci-dessous. Seul le nom du binaire s'affiche ici. Pour afficher ou modifier la ligne de commande en entier, vous devez ouvrir le fichier convert.conf. Cliquez sur Modifier pour enregistrer les modifications.
@@ -4099,7 +4099,7 @@ FILE_FORMAT
 	RU	Формат файла
 	SV	Filformat
 	ZH_CN	文件格式
-	
+
 SETUP_INPUTTYPE
 	DE	Von
 	EN	From
@@ -12170,17 +12170,17 @@ THOUSANDS_SEP
 	DE	.
 	EN	,
 	ES	.
-	FI	 
+	FI
 	FR	,
 	HE	,
 	IT	.
 	JA	,
 	NL	,
 	NO	.
-	PL	 
+	PL
 	PT	.
 	RU	,
-	SV	 
+	SV
 	ZH_CN	,
 
 BYTES
